@@ -1,6 +1,6 @@
 # Hi there 👋
 
-- 🔭 I’m currently working as a data intern
+- 🔭 I’m currently working as an ML Enginner
 - 🌱 I’m currently learning NLP, ML and Data Science
 - 💬 Ask me about movies and music
 
