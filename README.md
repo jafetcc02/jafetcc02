@@ -1,6 +1,7 @@
 # Hi there 👋
 
-- 🔭 I’m currently working as an ML Enginner
+- 🔭 I’m currently working as an Software Developer
+- I used tu work as a Machine Learning Engineer
 - 🌱 I’m currently learning NLP, ML and Data Science
 - 💬 Ask me about movies and music
 
